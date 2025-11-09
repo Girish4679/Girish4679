@@ -18,5 +18,5 @@ Cloud experience with AWS (Lambda, EC2, S3, CloudWatch)
 - **Multi-Agent Systems for Automation** – Experimenting with multi-agent workflows for real-world use cases like generating resumes, writing cover letters, and fetching relevant job links automatically.
 
 ### 💬 Connect With Me  
-I'm always open to chatting about interesting ideas, projects, or collaborations!  
-📫 [LinkedIn](https://www.linkedin.com/in/girish-ranganathan/)
+I'm always open to discussing interesting ideas, projects, or potential collaborations!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Girish%20Ranganathan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girish-ranganathan/)
